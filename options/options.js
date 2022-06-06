@@ -23,5 +23,12 @@ export const modulesOptions = {
     SignInButtonText: "Login",
     SignUpButtonText: "Sign Up"
   },
-  undefined: { title: "App Menu", copy: "Messages", styles: styles }
+
+  undefined: { title: "App Menu", copy: "Messages", styles: styles },
+  undefined: {
+    title: "payment ",
+    copy: "",
+    styles: styles,
+    localOptions: localOptions
+  }
 }
