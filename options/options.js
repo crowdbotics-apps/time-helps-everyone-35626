@@ -16,7 +16,7 @@ export const modulesOptions = {
       "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
     BACKGROUND_URL:
       "https://www.istockphoto.com/vector/work-life-balance-gm1276654003-376102702",
-    HOME_SCREEN_NAME: "Home Screen",
+    HOME_SCREEN_NAME: "Time Helps Everyone",
     validateEmail: "^[^\\s]+([.-]?\\w+)*@\\w+([.-]?\\w+)*(.\\w{2,3})+$",
     SignInNavText: "Sign In",
     SignUpNavText: "Sign Up",
