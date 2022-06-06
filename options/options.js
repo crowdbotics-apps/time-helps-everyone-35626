@@ -30,5 +30,11 @@ export const modulesOptions = {
     copy: "",
     styles: styles,
     localOptions: localOptions
+  },
+  undefined: {
+    title: "Payment",
+    copy: "",
+    styles: styles,
+    localOptions: localOptions
   }
 }
